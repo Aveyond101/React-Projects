@@ -13,7 +13,7 @@ const Form = () => {
     
     
     const handleWord = (e) => setWord(e.target.value);
-    //const API_URL = "https://api.datamuse.com/words?rel_syn=fast"+word;
+  
    
 
    const handleFetch = (e) =>{
